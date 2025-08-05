@@ -13,7 +13,7 @@ TEASER++ is a fast and certifiably-robust point cloud registration library writt
 
 TEASER++ can solve the rigid body transformation problem between two point clouds in 3D. It performs well even if the input correspondences have an extremely large number of outliers. For a short conceptual introduction, check out our [video](https://www.youtube.com/watch?v=xib1RSUoeeQ). For more information, please refer to our papers:
 - [H. Yang](http://hankyang.mit.edu/), [J. Shi](http://jingnanshi.com/), and [L. Carlone](http://lucacarlone.mit.edu/), "TEASER: Fast and Certifiable Point Cloud Registration,". [arXiv:2001.07715](https://arxiv.org/abs/2001.07715) [cs, math], Jan. 2020. ([pdf](https://arxiv.org/pdf/2001.07715.pdf))
-- [H. Yang](http://hankyang.mit.edu/) and [L. Carlone](http://lucacarlone.mit.edu/), ���A Polynomial-time Solution for Robust Registration with Extreme Outlier Rates,��� in Robotics: Science and Systems (RSS), 2019. ([pdf](https://arxiv.org/pdf/1903.08588.pdf))
+- [H. Yang](http://hankyang.mit.edu/) and [L. Carlone](http://lucacarlone.mit.edu/), “A Polynomial-time Solution for Robust Registration with Extreme Outlier Rates,” in Robotics: Science and Systems (RSS), 2019. ([pdf](https://arxiv.org/pdf/1903.08588.pdf))
 
 If you find this library helpful or use it in your projects, please cite:
 ```bibtex
@@ -162,8 +162,8 @@ You should be able to see Open3D windows showing registration results:
 
 ## Other Publications
 Other publications related to TEASER include:
-- [H. Yang](http://hankyang.mit.edu/) and [L. Carlone](http://lucacarlone.mit.edu/), ���A quaternion-based certifiably optimal solution to the Wahba problem with outliers,��� in Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2019, pp. 1665���1674. ([pdf](https://arxiv.org/pdf/1905.12536.pdf))
-- [H. Yang](http://hankyang.mit.edu/), [P. Antonante](http://www.mit.edu/~antonap/), [V. Tzoumas](https://vasileiostzoumas.com/), and [L. Carlone](http://lucacarlone.mit.edu/), ���Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection,��� IEEE Robotics and Automation Letters (RA-L), 2020. ([pdf](https://arxiv.org/pdf/1909.08605))
+- [H. Yang](http://hankyang.mit.edu/) and [L. Carlone](http://lucacarlone.mit.edu/), “A quaternion-based certifiably optimal solution to the Wahba problem with outliers,” in Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2019, pp. 1665–1674. ([pdf](https://arxiv.org/pdf/1905.12536.pdf))
+- [H. Yang](http://hankyang.mit.edu/), [P. Antonante](http://www.mit.edu/~antonap/), [V. Tzoumas](https://vasileiostzoumas.com/), and [L. Carlone](http://lucacarlone.mit.edu/), “Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection,” IEEE Robotics and Automation Letters (RA-L), 2020. ([pdf](https://arxiv.org/pdf/1909.08605))
 
 ## Acknowledgements
-This work was partially funded by ARL DCIST CRA W911NF-17-2-0181, ONR RAIDER N00014-18-1-2828, Lincoln Laboratory ���Resilient Perception in Degraded Environments���, and the Google Daydream Research Program.
+This work was partially funded by ARL DCIST CRA W911NF-17-2-0181, ONR RAIDER N00014-18-1-2828, Lincoln Laboratory “Resilient Perception in Degraded Environments”, and the Google Daydream Research Program.
